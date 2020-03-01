@@ -1,0 +1,6 @@
+# Compiled Python modules
+*.pyo
+*.pyc
+
+#vscode ide
+.vscode
